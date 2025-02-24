@@ -8,6 +8,6 @@
 </div>
 
 <div align="center">
-  <h3>Imagen 1</h3>
+  <h3>Imagen 2</h3>
   <img src="https://github.com/user-attachments/assets/d4a88e4b-b567-4ad2-9bc0-b0f1d6eef75b" width="500"/>
 </div>
